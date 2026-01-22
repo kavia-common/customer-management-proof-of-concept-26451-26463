@@ -1,0 +1,10 @@
+SQLite schema + seed applied via CLI.
+
+Tables created:
+- customers
+- audit_log
+
+Seeded rows:
+- customers: 20
+
+Applied on: 2026-01-22
